@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  code: MyString
+  pic: MyString
+  name: MyString
+  pv: 1
+  bv: 1
+  price: 1
+  suggest_price: 1
+
+two:
+  code: MyString
+  pic: MyString
+  name: MyString
+  pv: 1
+  bv: 1
+  price: 1
+  suggest_price: 1
